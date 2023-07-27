@@ -1,7 +1,7 @@
 {
   "schema_version": "v1",
-  "name_for_model": "tcd-chat",
-  "name_for_human": "tcd-chat",
+  "name_for_model": "tcdchat",
+  "name_for_human": "tcdchat",
   "description_for_model": "Plugin for prospective Trinity College Dublin students to find out more about engineering.",
   "description_for_human": "Plugin for prospective Trinity College Dublin students to find out more about engineering.",
   "auth": {
